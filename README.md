@@ -1,8 +1,6 @@
 # HacktoberFest
 Here's how you can make your first Pull Request
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
 
 **Step 1**
 
