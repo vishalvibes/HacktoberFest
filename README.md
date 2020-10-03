@@ -4,17 +4,17 @@ Here's how you can make your first Pull Request
 
 **Step 1**
 
->Click on fork
+>Please Click on fork
 
 
 **Step 2**
 
->Click on clone
+>Please Click on clone
 
 
 **Step 3**
 
->Copy the link
+>Please Copy the link
 
 
 **Step 4**
@@ -24,4 +24,4 @@ Here's how you can make your first Pull Request
 
 **step 5**
 
->Open that folder
+>Please Open that folder
